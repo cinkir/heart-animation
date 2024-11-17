@@ -1,0 +1,16 @@
+/* Styling untuk latar belakang */
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: radial-gradient(circle, #1e0322, #000);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    display: block;
+}
